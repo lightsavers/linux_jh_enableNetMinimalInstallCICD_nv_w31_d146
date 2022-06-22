@@ -17,11 +17,11 @@ Created: 06222022
 
  - Choose your network interface (using tab and space bar)
 ```
- --------------------------
-| Ethernet  |   <Add>      |
-|	 enp0s3 |   <Edit...>  |
-|	        |   <Delete>   |
-|           |              |
+ ------------------------
+| Ethernet|   <Add>      |
+| enp0s3  |   <Edit...>  |
+|         |   <Delete>   |
+|         |              |
 
 ```
 
